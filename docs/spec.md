@@ -3077,7 +3077,7 @@ Only the Operator can execute.
 5. Subtract `quote_amount_a` from the `position_b` collateral.
 
 #### Emits
-[InactiveAssetPositionReduced](#reduce-inactive-asset-position)
+[InactiveAssetPositionReduced](#inactiveassetpositionreduced)
 
 #### Errors
 - PAUSED
